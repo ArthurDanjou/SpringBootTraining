@@ -1,4 +1,4 @@
-package fr.arthurdanjou.test.player;
+package fr.arthurdanjou.springboottraining.player;
 
 import org.springframework.web.bind.annotation.*;
 
